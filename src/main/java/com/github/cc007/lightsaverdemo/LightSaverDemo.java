@@ -20,8 +20,7 @@ public class LightSaverDemo {
      */
     public static void main(String[] args) {
         try {
-            String pathToLightSaver = "D:\\Local\\My Documents\\NetBeansProjects\\LightSaverDemo";
-            Runtime.getRuntime().exec("cmd.exe /c cd \"" + pathToLightSaver + "\" & start D:\\helloWorld.bat");
+            Runtime.getRuntime().exec("cmd.exe /c start .\\startDemo.bat");
             
         } catch (IOException ex) {
             Logger.getLogger(LightSaverDemo.class.getName()).log(Level.SEVERE, null, ex);
