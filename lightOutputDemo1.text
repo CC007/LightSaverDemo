@@ -1,0 +1,1604 @@
+Check: counter = 0, lightlevel = 0, state = 0
+Turn light off
+UDP Server is listening...
+TCP Server is listening...
+Check: counter = 2, lightlevel = 0, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 0, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 0, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 0, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 0, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 0, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 0, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 0, state = 0
+Turn light off
+Disabled counter
+Set new light level value: 5
+Reset counter to: 2
+Check: counter = 2, lightlevel = 5, state = 0
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 5, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 5, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 5, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 5, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 5, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 5, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 5, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 5, state = 1
+Turn light on
+Disabled counter
+Check: counter = -1, lightlevel = 5, state = 1
+Turn light on
+Disabled counter
+Set new light level value: 36
+Check: counter = -1, lightlevel = 36, state = 1
+Turn light on
+Check: counter = -2, lightlevel = 36, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 36, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 36, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 36, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 36, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 36, state = 1
+Turn light on
+Disabled counter
+Check: counter = -1, lightlevel = 36, state = 1
+Turn light on
+Check: counter = -2, lightlevel = 36, state = 1
+Turn light on
+Check: counter = -3, lightlevel = 36, state = 1
+Turn light on
+Reset counter to: 2
+Set new light level value: 88
+Check: counter = 2, lightlevel = 88, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 88, state = 1
+Check: counter = 1, lightlevel = 88, state = 1
+Check: counter = 0, lightlevel = 88, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 88, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 88, state = 0
+Turn light off
+Reset counter to: 2
+Check: counter = 2, lightlevel = 88, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 88, state = 0
+Check: counter = 2, lightlevel = 88, state = 0
+Check: counter = 1, lightlevel = 88, state = 0
+Set new light level value: 77
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 0
+Check: counter = 1, lightlevel = 77, state = 0
+Check: counter = 0, lightlevel = 77, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 77, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 0
+Check: counter = 1, lightlevel = 77, state = 0
+Check: counter = 2, lightlevel = 77, state = 0
+Check: counter = 1, lightlevel = 77, state = 0
+Set new light level value: 64
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 64, state = 0
+Check: counter = 2, lightlevel = 64, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 64, state = 0
+Check: counter = 1, lightlevel = 64, state = 0
+Check: counter = 0, lightlevel = 64, state = 0
+Turn light off
+Reset counter to: 2
+Check: counter = 2, lightlevel = 64, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 64, state = 0
+Check: counter = 2, lightlevel = 64, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 64, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 64, state = 0
+Set new light level value: 17
+Reset counter to: 2
+Check: counter = 2, lightlevel = 17, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 17, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 17, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 17, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 17, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 17, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 17, state = 1
+Turn light on
+Disabled counter
+Check: counter = 2, lightlevel = 17, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 17, state = 1
+Turn light on
+Disabled counter
+Check: counter = 2, lightlevel = 17, state = 1
+Turn light on
+Set new light level value: 43
+Check: counter = 1, lightlevel = 43, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 43, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 43, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 43, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 43, state = 0
+Turn light on
+Check: counter = 2, lightlevel = 43, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 43, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 43, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 43, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 43, state = 0
+Turn light on
+Set new light level value: 60
+Check: counter = 1, lightlevel = 60, state = 1
+Check: counter = 2, lightlevel = 60, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 60, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 60, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 60, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 60, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 60, state = 1
+Check: counter = 1, lightlevel = 60, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 60, state = 1
+Check: counter = 2, lightlevel = 60, state = 1
+Set new light level value: 55
+Check: counter = 1, lightlevel = 55, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 55, state = 1
+Check: counter = 2, lightlevel = 55, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 55, state = 1
+Check: counter = 1, lightlevel = 55, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 55, state = 1
+Check: counter = 1, lightlevel = 55, state = 1
+Disabled counter
+Check: counter = -1, lightlevel = 55, state = 1
+Check: counter = -2, lightlevel = 55, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 55, state = 1
+Set new light level value: 75
+Check: counter = 1, lightlevel = 75, state = 1
+Check: counter = 2, lightlevel = 75, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 75, state = 1
+Check: counter = 2, lightlevel = 75, state = 1
+Check: counter = 2, lightlevel = 75, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 75, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 75, state = 1
+Check: counter = 1, lightlevel = 75, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 75, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 75, state = 1
+Set new light level value: 23
+Check: counter = 2, lightlevel = 23, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 23, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 23, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 23, state = 0
+Turn light off
+Reset counter to: 2
+Check: counter = 2, lightlevel = 23, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 23, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 23, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 23, state = 0
+Turn light off
+Disabled counter
+Check: counter = -1, lightlevel = 23, state = 0
+Turn light on
+Check: counter = -2, lightlevel = 23, state = 1
+Turn light on
+Reset counter to: 2
+Set new light level value: 45
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 45, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 45, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 45, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 45, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 45, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 45, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 45, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 45, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 45, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 45, state = 1
+Turn light on
+Set new light level value: 99
+Check: counter = 1, lightlevel = 99, state = 1
+Check: counter = 0, lightlevel = 99, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 99, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 99, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 99, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 99, state = 0
+Disabled counter
+Check: counter = 2, lightlevel = 99, state = 0
+Check: counter = 1, lightlevel = 99, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 99, state = 0
+Check: counter = 1, lightlevel = 99, state = 0
+Reset counter to: 2
+Set new light level value: 30
+Check: counter = 2, lightlevel = 30, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 30, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 30, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 30, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 30, state = 0
+Turn light on
+Check: counter = 2, lightlevel = 30, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 30, state = 1
+Turn light on
+Disabled counter
+Check: counter = -1, lightlevel = 30, state = 1
+Turn light on
+Check: counter = -2, lightlevel = 30, state = 1
+Turn light on
+Check: counter = -3, lightlevel = 30, state = 1
+Turn light on
+Set new light level value: 78
+Check: counter = -4, lightlevel = 78, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 78, state = 1
+Check: counter = 2, lightlevel = 78, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 78, state = 1
+Check: counter = 1, lightlevel = 78, state = 1
+Check: counter = 2, lightlevel = 78, state = 1
+Check: counter = 1, lightlevel = 78, state = 1
+Disabled counter
+Check: counter = -1, lightlevel = 78, state = 1
+Check: counter = -2, lightlevel = 78, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 78, state = 1
+Set new light level value: 24
+Check: counter = 1, lightlevel = 24, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 24, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 24, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 24, state = 0
+Turn light on
+Check: counter = 2, lightlevel = 24, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 24, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 24, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 24, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 24, state = 1
+Turn light off
+Check: counter = 2, lightlevel = 24, state = 0
+Turn light on
+Set new light level value: 72
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 72, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 72, state = 1
+Check: counter = 1, lightlevel = 72, state = 1
+Check: counter = 2, lightlevel = 72, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 72, state = 1
+Check: counter = 2, lightlevel = 72, state = 1
+Check: counter = 1, lightlevel = 72, state = 1
+Check: counter = 0, lightlevel = 72, state = 1
+Turn light off
+Disabled counter
+Check: counter = -1, lightlevel = 72, state = 0
+Check: counter = -2, lightlevel = 72, state = 0
+Reset counter to: 2
+Disabled counter
+Set new light level value: 98
+Check: counter = -1, lightlevel = 98, state = 0
+Check: counter = 2, lightlevel = 98, state = 0
+Check: counter = 1, lightlevel = 98, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 98, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 98, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 98, state = 0
+Check: counter = 1, lightlevel = 98, state = 0
+Check: counter = 2, lightlevel = 98, state = 0
+Check: counter = 1, lightlevel = 98, state = 0
+Disabled counter
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 98, state = 0
+Reset counter to: 2
+Disabled counter
+Set new light level value: 46
+Check: counter = 2, lightlevel = 46, state = 0
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 46, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 46, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 46, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 46, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 46, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 46, state = 1
+Turn light off
+Check: counter = 2, lightlevel = 46, state = 0
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 46, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 46, state = 1
+Turn light on
+Set new light level value: 50
+Reset counter to: 2
+Check: counter = 2, lightlevel = 50, state = 1
+Reset counter to: 2
+Disabled counter
+Check: counter = -1, lightlevel = 50, state = 1
+Check: counter = 2, lightlevel = 50, state = 1
+Check: counter = 1, lightlevel = 50, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 50, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 50, state = 1
+Check: counter = 2, lightlevel = 50, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 50, state = 1
+Check: counter = 2, lightlevel = 50, state = 1
+Check: counter = 1, lightlevel = 50, state = 1
+Set new light level value: 81
+Check: counter = 0, lightlevel = 81, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 81, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 81, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 81, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 81, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 81, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 81, state = 0
+Check: counter = 2, lightlevel = 81, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 81, state = 0
+Disabled counter
+Check: counter = -1, lightlevel = 81, state = 0
+Set new light level value: 76
+Check: counter = 2, lightlevel = 76, state = 0
+Check: counter = 1, lightlevel = 76, state = 0
+Check: counter = 0, lightlevel = 76, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 76, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 76, state = 0
+Check: counter = 2, lightlevel = 76, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 76, state = 0
+Check: counter = 1, lightlevel = 76, state = 0
+Check: counter = 2, lightlevel = 76, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 76, state = 0
+Reset counter to: 2
+Set new light level value: 93
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 93, state = 0
+Disabled counter
+Check: counter = -1, lightlevel = 93, state = 0
+Check: counter = 2, lightlevel = 93, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 93, state = 0
+Disabled counter
+Check: counter = -1, lightlevel = 93, state = 0
+Disabled counter
+Check: counter = -1, lightlevel = 93, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 93, state = 0
+Check: counter = 1, lightlevel = 93, state = 0
+Check: counter = 0, lightlevel = 93, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 93, state = 0
+Turn light off
+Set new light level value: 42
+Check: counter = 0, lightlevel = 42, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 42, state = 0
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 42, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 42, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 42, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 42, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 42, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 42, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 42, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 42, state = 1
+Turn light on
+Set new light level value: 13
+Reset counter to: 2
+Check: counter = 2, lightlevel = 13, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 13, state = 1
+Turn light on
+Disabled counter
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 13, state = 1
+Turn light on
+Disabled counter
+Check: counter = -1, lightlevel = 13, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 13, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 13, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 13, state = 1
+Turn light on
+Reset counter to: 2
+Disabled counter
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 13, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 13, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 13, state = 1
+Turn light off
+Set new light level value: 9
+Reset counter to: 2
+Check: counter = 2, lightlevel = 9, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 9, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 9, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 9, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 9, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 9, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 9, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 9, state = 0
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 9, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 9, state = 1
+Turn light on
+Set new light level value: 89
+Check: counter = 0, lightlevel = 89, state = 1
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 89, state = 0
+Disabled counter
+Check: counter = -1, lightlevel = 89, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 89, state = 0
+Check: counter = 1, lightlevel = 89, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 89, state = 0
+Check: counter = 2, lightlevel = 89, state = 0
+Check: counter = 1, lightlevel = 89, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 89, state = 0
+Check: counter = 1, lightlevel = 89, state = 0
+Set new light level value: 63
+Check: counter = 2, lightlevel = 63, state = 0
+Check: counter = 1, lightlevel = 63, state = 0
+Check: counter = 0, lightlevel = 63, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 63, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 63, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 63, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 63, state = 0
+Check: counter = 1, lightlevel = 63, state = 0
+Check: counter = 2, lightlevel = 63, state = 0
+Check: counter = 1, lightlevel = 63, state = 0
+Set new light level value: 57
+Disabled counter
+Check: counter = -1, lightlevel = 57, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 57, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 57, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 57, state = 0
+Check: counter = 1, lightlevel = 57, state = 0
+Disabled counter
+Reset counter to: 2
+Check: counter = 2, lightlevel = 57, state = 0
+Check: counter = 1, lightlevel = 57, state = 0
+Check: counter = 0, lightlevel = 57, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 57, state = 0
+Check: counter = 1, lightlevel = 57, state = 0
+Set new light level value: 76
+Check: counter = 0, lightlevel = 76, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 76, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 76, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 76, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 76, state = 0
+Check: counter = 1, lightlevel = 76, state = 0
+Check: counter = 0, lightlevel = 76, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 76, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 76, state = 0
+Check: counter = 1, lightlevel = 76, state = 0
+Reset counter to: 2
+Set new light level value: 28
+Reset counter to: 2
+Disabled counter
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 28, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 28, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 28, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 28, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 28, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 28, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 28, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 28, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 28, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 28, state = 0
+Turn light on
+Set new light level value: 77
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 1
+Check: counter = 2, lightlevel = 77, state = 1
+Check: counter = 1, lightlevel = 77, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 1
+Check: counter = 1, lightlevel = 77, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 1
+Check: counter = 1, lightlevel = 77, state = 1
+Disabled counter
+Check: counter = 2, lightlevel = 77, state = 1
+Check: counter = 1, lightlevel = 77, state = 1
+Disabled counter
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 1
+Set new light level value: 48
+Check: counter = 2, lightlevel = 48, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 48, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 48, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 48, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 48, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 48, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 48, state = 0
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 48, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 48, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 48, state = 1
+Turn light on
+Set new light level value: 72
+Reset counter to: 2
+Check: counter = 2, lightlevel = 72, state = 1
+Check: counter = 2, lightlevel = 72, state = 1
+Check: counter = 1, lightlevel = 72, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 72, state = 1
+Check: counter = 1, lightlevel = 72, state = 1
+Check: counter = 2, lightlevel = 72, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 72, state = 1
+Disabled counter
+Check: counter = -1, lightlevel = 72, state = 1
+Check: counter = -2, lightlevel = 72, state = 1
+Check: counter = -3, lightlevel = 72, state = 1
+Set new light level value: 18
+Disabled counter
+Check: counter = -1, lightlevel = 18, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 18, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 18, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 18, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 18, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 18, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 18, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 18, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 18, state = 0
+Turn light off
+Disabled counter
+Check: counter = -1, lightlevel = 18, state = 0
+Turn light on
+Set new light level value: 39
+Check: counter = -2, lightlevel = 39, state = 1
+Turn light on
+Check: counter = -3, lightlevel = 39, state = 1
+Turn light on
+Check: counter = -4, lightlevel = 39, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 39, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 39, state = 1
+Turn light on
+Disabled counter
+Reset counter to: 2
+Check: counter = 2, lightlevel = 39, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 39, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 39, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 39, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 39, state = 1
+Turn light on
+Set new light level value: 15
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 15, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 15, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 15, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 15, state = 1
+Turn light on
+Disabled counter
+Check: counter = -1, lightlevel = 15, state = 1
+Turn light on
+Check: counter = -2, lightlevel = 15, state = 1
+Turn light on
+Check: counter = -3, lightlevel = 15, state = 1
+Turn light on
+Check: counter = -4, lightlevel = 15, state = 1
+Turn light on
+Check: counter = -5, lightlevel = 15, state = 1
+Turn light on
+Check: counter = -6, lightlevel = 15, state = 1
+Turn light on
+Set new light level value: 26
+Disabled counter
+Check: counter = 2, lightlevel = 26, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 26, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 26, state = 1
+Turn light on
+Reset counter to: 2
+Disabled counter
+Check: counter = -1, lightlevel = 26, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 26, state = 1
+Turn light on
+Disabled counter
+Check: counter = -1, lightlevel = 26, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 26, state = 1
+Turn light on
+Disabled counter
+Check: counter = -1, lightlevel = 26, state = 1
+Turn light on
+Check: counter = -2, lightlevel = 26, state = 1
+Turn light on
+Check: counter = -3, lightlevel = 26, state = 1
+Turn light on
+Set new light level value: 83
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 83, state = 1
+Check: counter = 2, lightlevel = 83, state = 1
+Check: counter = 1, lightlevel = 83, state = 1
+Check: counter = 0, lightlevel = 83, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 83, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 83, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 83, state = 0
+Check: counter = 2, lightlevel = 83, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 83, state = 0
+Check: counter = 1, lightlevel = 83, state = 0
+Set new light level value: 28
+Check: counter = 2, lightlevel = 28, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 28, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 28, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 28, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 28, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 28, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 28, state = 0
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 28, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 28, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 28, state = 1
+Turn light on
+Set new light level value: 11
+Check: counter = 0, lightlevel = 11, state = 1
+Turn light off
+Reset counter to: 2
+Check: counter = 2, lightlevel = 11, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 11, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 11, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 11, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 11, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 11, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 11, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 11, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 11, state = 1
+Turn light on
+Set new light level value: 76
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 76, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 76, state = 1
+Check: counter = 1, lightlevel = 76, state = 1
+Check: counter = 0, lightlevel = 76, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 76, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 76, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 76, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 76, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 76, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 76, state = 0
+Set new light level value: 59
+Check: counter = 2, lightlevel = 59, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 59, state = 0
+Check: counter = 1, lightlevel = 59, state = 0
+Check: counter = 2, lightlevel = 59, state = 0
+Disabled counter
+Check: counter = -1, lightlevel = 59, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 59, state = 0
+Check: counter = 1, lightlevel = 59, state = 0
+Check: counter = 0, lightlevel = 59, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 59, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 59, state = 0
+Set new light level value: 42
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 42, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 42, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 42, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 42, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 42, state = 0
+Turn light off
+Disabled counter
+Check: counter = 2, lightlevel = 42, state = 0
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 42, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 42, state = 1
+Turn light on
+Disabled counter
+Check: counter = -1, lightlevel = 42, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 42, state = 1
+Turn light on
+Set new light level value: 16
+Reset counter to: 2
+Disabled counter
+Check: counter = -1, lightlevel = 16, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 16, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 16, state = 1
+Turn light on
+Disabled counter
+Check: counter = -1, lightlevel = 16, state = 1
+Turn light on
+Check: counter = -2, lightlevel = 16, state = 1
+Turn light on
+Check: counter = -3, lightlevel = 16, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 16, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 16, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 16, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 16, state = 1
+Turn light off
+Set new light level value: 27
+Check: counter = 0, lightlevel = 27, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 27, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 27, state = 0
+Turn light on
+Disabled counter
+Reset counter to: 2
+Check: counter = 2, lightlevel = 27, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 27, state = 1
+Turn light on
+Disabled counter
+Check: counter = -1, lightlevel = 27, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 27, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 27, state = 1
+Turn light on
+Reset counter to: 2
+Disabled counter
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 27, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 27, state = 1
+Turn light on
+Set new light level value: 68
+Reset counter to: 2
+Check: counter = 2, lightlevel = 68, state = 1
+Check: counter = 1, lightlevel = 68, state = 1
+Check: counter = 2, lightlevel = 68, state = 1
+Check: counter = 1, lightlevel = 68, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 68, state = 1
+Check: counter = 1, lightlevel = 68, state = 1
+Check: counter = 2, lightlevel = 68, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 68, state = 1
+Check: counter = 2, lightlevel = 68, state = 1
+Check: counter = 1, lightlevel = 68, state = 1
+Set new light level value: 14
+Check: counter = 0, lightlevel = 14, state = 1
+Turn light off
+Reset counter to: 2
+Check: counter = 2, lightlevel = 14, state = 0
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 14, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 14, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 14, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 14, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 14, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 14, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 14, state = 1
+Turn light off
+Disabled counter
+Check: counter = -1, lightlevel = 14, state = 0
+Turn light on
+Set new light level value: 29
+Check: counter = -2, lightlevel = 29, state = 1
+Turn light on
+Disabled counter
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 29, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 29, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 29, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 29, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 29, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 29, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 29, state = 0
+Turn light on
+Disabled counter
+Check: counter = -1, lightlevel = 29, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 29, state = 1
+Turn light on
+Set new light level value: 4
+Check: counter = 1, lightlevel = 4, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 4, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 4, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 4, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 4, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 4, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 4, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 4, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 4, state = 0
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 4, state = 1
+Turn light on
+Set new light level value: 0
+Check: counter = 1, lightlevel = 0, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 0, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 0, state = 0
+Turn light off
+Reset counter to: 2
+Check: counter = 2, lightlevel = 0, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 0, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 0, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 0, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 0, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 0, state = 1
+Turn light on
+Disabled counter
+Check: counter = 2, lightlevel = 0, state = 1
+Turn light on
+Set new light level value: 31
+Disabled counter
+Check: counter = -1, lightlevel = 31, state = 1
+Turn light on
+Disabled counter
+Reset counter to: 2
+Check: counter = 2, lightlevel = 31, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 31, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 31, state = 1
+Turn light off
+Reset counter to: 2
+Check: counter = 2, lightlevel = 31, state = 0
+Turn light on
+Check: counter = 1, lightlevel = 31, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 31, state = 1
+Turn light off
+Reset counter to: 2
+Check: counter = 2, lightlevel = 31, state = 0
+Turn light on
+Check: counter = 2, lightlevel = 31, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 31, state = 1
+Turn light on
+Set new light level value: 90
+Check: counter = 1, lightlevel = 90, state = 1
+Check: counter = 2, lightlevel = 90, state = 1
+Check: counter = 1, lightlevel = 90, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 90, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 90, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 90, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 90, state = 1
+Check: counter = 1, lightlevel = 90, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 90, state = 1
+Check: counter = 1, lightlevel = 90, state = 1
+Set new light level value: 7
+Check: counter = 0, lightlevel = 7, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 7, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 7, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 7, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 7, state = 0
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 7, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 7, state = 1
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 7, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 7, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 7, state = 1
+Turn light on
+Set new light level value: 32
+Check: counter = 0, lightlevel = 32, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 32, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 32, state = 0
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 32, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 32, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 32, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 32, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 32, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 32, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 32, state = 1
+Turn light on
+Set new light level value: 15
+Check: counter = 0, lightlevel = 15, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 15, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 15, state = 0
+Turn light on
+Check: counter = 2, lightlevel = 15, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 15, state = 1
+Turn light on
+Check: counter = 0, lightlevel = 15, state = 1
+Turn light off
+Check: counter = 0, lightlevel = 15, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 15, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 15, state = 0
+Turn light on
+Check: counter = 2, lightlevel = 15, state = 1
+Turn light on
+Set new light level value: 98
+Reset counter to: 2
+Disabled counter
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 98, state = 1
+Check: counter = 1, lightlevel = 98, state = 1
+Check: counter = 2, lightlevel = 98, state = 1
+Disabled counter
+Check: counter = -1, lightlevel = 98, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 98, state = 1
+Check: counter = 1, lightlevel = 98, state = 1
+Check: counter = 0, lightlevel = 98, state = 1
+Turn light off
+Disabled counter
+Check: counter = -1, lightlevel = 98, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 98, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 98, state = 0
+Set new light level value: 81
+Reset counter to: 2
+Check: counter = 2, lightlevel = 81, state = 0
+Check: counter = 1, lightlevel = 81, state = 0
+Check: counter = 0, lightlevel = 81, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 81, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 81, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 81, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 81, state = 0
+Check: counter = 2, lightlevel = 81, state = 0
+Check: counter = 1, lightlevel = 81, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 81, state = 0
+Set new light level value: 98
+Disabled counter
+Check: counter = -1, lightlevel = 98, state = 0
+Check: counter = 2, lightlevel = 98, state = 0
+Reset counter to: 2
+Check: counter = 2, lightlevel = 98, state = 0
+Check: counter = 1, lightlevel = 98, state = 0
+Check: counter = 0, lightlevel = 98, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 98, state = 0
+Check: counter = 2, lightlevel = 98, state = 0
+Check: counter = 1, lightlevel = 98, state = 0
+Check: counter = 0, lightlevel = 98, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 98, state = 0
+Turn light off
+Set new light level value: 66
+Check: counter = 0, lightlevel = 66, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 66, state = 0
+Check: counter = 1, lightlevel = 66, state = 0
+Check: counter = 0, lightlevel = 66, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 66, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 66, state = 0
+Turn light off
+Check: counter = 2, lightlevel = 66, state = 0
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 66, state = 0
+Check: counter = 1, lightlevel = 66, state = 0
+Check: counter = 0, lightlevel = 66, state = 0
+Turn light off
+Set new light level value: 25
+Check: counter = 0, lightlevel = 25, state = 0
+Turn light off
+Reset counter to: 2
+Check: counter = 2, lightlevel = 25, state = 0
+Turn light on
+Reset counter to: 2
+Check: counter = 2, lightlevel = 25, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 25, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 25, state = 1
+Turn light on
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 25, state = 1
+Turn light on
+Check: counter = 1, lightlevel = 25, state = 1
+Turn light on
+Disabled counter
+Check: counter = -1, lightlevel = 25, state = 1
+Turn light on
+Check: counter = -2, lightlevel = 25, state = 1
+Turn light on
+Check: counter = 2, lightlevel = 25, state = 1
+Turn light on
+Set new light level value: 77
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 1
+Check: counter = 1, lightlevel = 77, state = 1
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 1
+Check: counter = 1, lightlevel = 77, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 1
+Check: counter = 2, lightlevel = 77, state = 1
+Check: counter = 1, lightlevel = 77, state = 1
+Reset counter to: 2
+Check: counter = 2, lightlevel = 77, state = 1
+Check: counter = 1, lightlevel = 77, state = 1
+Set new light level value: 94
+Check: counter = 0, lightlevel = 94, state = 1
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 94, state = 0
+Check: counter = 2, lightlevel = 94, state = 0
+Check: counter = 1, lightlevel = 94, state = 0
+Check: counter = 0, lightlevel = 94, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 94, state = 0
+Turn light off
+Reset counter to: 2
+Reset counter to: 2
+Reset counter to: 2
+Check: counter = 2, lightlevel = 94, state = 0
+Check: counter = 2, lightlevel = 94, state = 0
+Check: counter = 1, lightlevel = 94, state = 0
+Check: counter = 0, lightlevel = 94, state = 0
+Turn light off
+Set new light level value: 50
+Check: counter = 0, lightlevel = 50, state = 0
+Turn light off
+Check: counter = 0, lightlevel = 50, state = 0
+Turn light off
