@@ -21,7 +21,7 @@ ping 127.0.0.1 -n 5 -w 1000 > NUL
 
 @REM Run java programs
 %runStr%datacontroller.DataController""
-%runStr%light.Light" -Dexec.args="1 localhost""
+%runStr%appliance.light.Light" -Dexec.args="1 localhost""
 %runStr%detector.light.LightDetector" -Dexec.args="1 localhost""
 %runStr%detector.motion.MotionDetector" -Dexec.args="1 localhost""
 %runStr%detector.passage.PassageDetector" -Dexec.args="1 localhost""
